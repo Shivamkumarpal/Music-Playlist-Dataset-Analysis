@@ -1,4 +1,4 @@
-**Title: Music Playlist Dataset Analysis for Business Growth Insights**
+**Title: Music Store Analysis for Business Growth Insights**
 
 Description: Analyzed the music playlist dataset utilizing SQL concepts to answer key questions and derive valuable insights for business growth strategies.
 
